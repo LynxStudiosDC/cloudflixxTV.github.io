@@ -1,4 +1,4 @@
-# iptv-org.github.io [![update](https://github.com/iptv-org/iptv-org.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv-org.github.io/actions/workflows/update.yml)
+# cloudflixxTV.github.io [![update](https://github.com/iptv-org/iptv-org.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv-org.github.io/actions/workflows/update.yml)
 
 ## Developing
 
